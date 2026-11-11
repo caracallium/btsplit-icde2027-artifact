@@ -1,0 +1,6 @@
+/btsplit
+/btsplit.exe
+/btsplit_dynamic
+/btsplit_dynamic.exe
+*.o
+*.obj
